@@ -1,0 +1,14 @@
+C:\Skola\C-Sharp\Lessons\Lektion-4\01_Classes\bin\Debug\net7.0\01_Classes.exe
+C:\Skola\C-Sharp\Lessons\Lektion-4\01_Classes\bin\Debug\net7.0\01_Classes.deps.json
+C:\Skola\C-Sharp\Lessons\Lektion-4\01_Classes\bin\Debug\net7.0\01_Classes.runtimeconfig.json
+C:\Skola\C-Sharp\Lessons\Lektion-4\01_Classes\bin\Debug\net7.0\01_Classes.dll
+C:\Skola\C-Sharp\Lessons\Lektion-4\01_Classes\bin\Debug\net7.0\01_Classes.pdb
+C:\Skola\C-Sharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\C-Sharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.AssemblyInfoInputs.cache
+C:\Skola\C-Sharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.AssemblyInfo.cs
+C:\Skola\C-Sharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.csproj.CoreCompileInputs.cache
+C:\Skola\C-Sharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.dll
+C:\Skola\C-Sharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\refint\01_Classes.dll
+C:\Skola\C-Sharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.pdb
+C:\Skola\C-Sharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.genruntimeconfig.cache
+C:\Skola\C-Sharp\Lessons\Lektion-4\01_Classes\obj\Debug\net7.0\ref\01_Classes.dll

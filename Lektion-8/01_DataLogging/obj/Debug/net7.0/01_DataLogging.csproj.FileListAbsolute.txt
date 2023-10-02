@@ -1,0 +1,14 @@
+C:\Skola\C-Sharp\Lessons\Lektion-8\01_DataLogging\bin\Debug\net7.0\01_DataLogging.exe
+C:\Skola\C-Sharp\Lessons\Lektion-8\01_DataLogging\bin\Debug\net7.0\01_DataLogging.deps.json
+C:\Skola\C-Sharp\Lessons\Lektion-8\01_DataLogging\bin\Debug\net7.0\01_DataLogging.runtimeconfig.json
+C:\Skola\C-Sharp\Lessons\Lektion-8\01_DataLogging\bin\Debug\net7.0\01_DataLogging.dll
+C:\Skola\C-Sharp\Lessons\Lektion-8\01_DataLogging\bin\Debug\net7.0\01_DataLogging.pdb
+C:\Skola\C-Sharp\Lessons\Lektion-8\01_DataLogging\obj\Debug\net7.0\01_DataLogging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\C-Sharp\Lessons\Lektion-8\01_DataLogging\obj\Debug\net7.0\01_DataLogging.AssemblyInfoInputs.cache
+C:\Skola\C-Sharp\Lessons\Lektion-8\01_DataLogging\obj\Debug\net7.0\01_DataLogging.AssemblyInfo.cs
+C:\Skola\C-Sharp\Lessons\Lektion-8\01_DataLogging\obj\Debug\net7.0\01_DataLogging.csproj.CoreCompileInputs.cache
+C:\Skola\C-Sharp\Lessons\Lektion-8\01_DataLogging\obj\Debug\net7.0\01_DataLogging.dll
+C:\Skola\C-Sharp\Lessons\Lektion-8\01_DataLogging\obj\Debug\net7.0\refint\01_DataLogging.dll
+C:\Skola\C-Sharp\Lessons\Lektion-8\01_DataLogging\obj\Debug\net7.0\01_DataLogging.pdb
+C:\Skola\C-Sharp\Lessons\Lektion-8\01_DataLogging\obj\Debug\net7.0\01_DataLogging.genruntimeconfig.cache
+C:\Skola\C-Sharp\Lessons\Lektion-8\01_DataLogging\obj\Debug\net7.0\ref\01_DataLogging.dll
