@@ -1,0 +1,1 @@
+C:\Skola\C-Sharp\Lessons\Letion-10\UniApp\UniApp.csproj;x64
