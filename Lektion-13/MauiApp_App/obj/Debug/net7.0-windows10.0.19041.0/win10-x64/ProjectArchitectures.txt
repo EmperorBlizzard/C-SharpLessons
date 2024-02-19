@@ -1,0 +1,1 @@
+C:\Skola\C-Sharp\Lessons\Lektion-13\MauiApp_App\MauiApp_App.csproj;x64

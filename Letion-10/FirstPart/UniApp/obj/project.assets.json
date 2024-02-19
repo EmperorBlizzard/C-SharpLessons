@@ -10262,11 +10262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\UniApp\\UniApp.csproj",
+      "projectUniqueName": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\FirstPart\\UniApp\\UniApp.csproj",
       "projectName": "UniApp",
-      "projectPath": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\UniApp\\UniApp.csproj",
+      "projectPath": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\FirstPart\\UniApp\\UniApp.csproj",
       "packagesPath": "C:\\Users\\emil1\\.nuget\\packages\\",
-      "outputPath": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\UniApp\\obj\\",
+      "outputPath": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\FirstPart\\UniApp\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

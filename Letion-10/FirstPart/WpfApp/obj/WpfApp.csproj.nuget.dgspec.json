@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\WpfApp\\WpfApp.csproj": {}
+    "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\FirstPart\\WpfApp\\WpfApp.csproj": {}
   },
   "projects": {
-    "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\WpfApp\\WpfApp.csproj": {
+    "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\FirstPart\\WpfApp\\WpfApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\WpfApp\\WpfApp.csproj",
+        "projectUniqueName": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\FirstPart\\WpfApp\\WpfApp.csproj",
         "projectName": "WpfApp",
-        "projectPath": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\WpfApp\\WpfApp.csproj",
+        "projectPath": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\FirstPart\\WpfApp\\WpfApp.csproj",
         "packagesPath": "C:\\Users\\emil1\\.nuget\\packages\\",
-        "outputPath": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\WpfApp\\obj\\",
+        "outputPath": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\FirstPart\\WpfApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

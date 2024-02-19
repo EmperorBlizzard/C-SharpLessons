@@ -24028,11 +24028,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\MauiApp1\\MauiApp1.csproj",
+      "projectUniqueName": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\FirstPart\\MauiApp1\\MauiApp1.csproj",
       "projectName": "MauiApp1",
-      "projectPath": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\MauiApp1\\MauiApp1.csproj",
+      "projectPath": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\FirstPart\\MauiApp1\\MauiApp1.csproj",
       "packagesPath": "C:\\Users\\emil1\\.nuget\\packages\\",
-      "outputPath": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\MauiApp1\\obj\\",
+      "outputPath": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\FirstPart\\MauiApp1\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

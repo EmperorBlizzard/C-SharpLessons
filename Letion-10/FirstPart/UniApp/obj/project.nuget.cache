@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cWUIOu06ifIMjKXyBg+Rw07EKI1RYWW+aNsnyUKkuS/u1yH2zySeTs3hfWXBYHiIvFvCw4mYhH/Th7N68T63rg==",
+  "dgSpecHash": "LGwt4C9DhkvmlAHbr1DBUPd2dRk0zvPi3vlOXSCuHT3CE8559O7Wep+bT83plhFzX5/l+xQWEHu0q1tDZoWAEQ==",
   "success": true,
-  "projectFilePath": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\UniApp\\UniApp.csproj",
+  "projectFilePath": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\FirstPart\\UniApp\\UniApp.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.12-rel-31116-00\\microsoft.net.native.compiler.2.2.12-rel-31116-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.14\\microsoft.net.uwpcoreruntimesdk.2.2.14.nupkg.sha512",

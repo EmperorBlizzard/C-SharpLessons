@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Skola\C-Sharp\Lessons\Letion-10\TodoList\TodoListApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-10-02T12:56:13.485</Modified>
+      <Modified>2023-10-09T07:44:59.623</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Skola\C-Sharp\Lessons\Letion-10\TodoList\TodoListApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\TodoListApp.dll">
       <PackagePath>TodoListApp.dll</PackagePath>
-      <Modified>2023-10-02T12:56:12.424</Modified>
+      <Modified>2023-10-09T07:44:58.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Skola\C-Sharp\Lessons\Letion-10\TodoList\TodoListApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>TodoListApp.exe</PackagePath>
-      <Modified>2023-10-02T12:56:12.445</Modified>
+      <Modified>2023-10-09T07:44:58.398</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Skola\C-Sharp\Lessons\Letion-10\TodoList\TodoListApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\TodoListApp.deps.json">
       <PackagePath>TodoListApp.deps.json</PackagePath>

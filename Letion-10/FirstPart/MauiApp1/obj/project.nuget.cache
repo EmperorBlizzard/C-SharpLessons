@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YzpQgtZ8truootDN8ZNqagwV8QAtrNFaTigfLAPzUQ25ZMsy4H8ISlC/CLH6YynTZKQP7127ZSmfJhFbr4UgSA==",
+  "dgSpecHash": "zKLztEUuDJJqNyESvoNUe6H9BoEbibQNeYaqqUB8onzpWh2A+Ub3yqr7/TVs/0h5Oi+OHV53z6rP4N+7umt6hA==",
   "success": true,
-  "projectFilePath": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\MauiApp1\\MauiApp1.csproj",
+  "projectFilePath": "C:\\Skola\\C-Sharp\\Lessons\\Letion-10\\FirstPart\\MauiApp1\\MauiApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emil1\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\emil1\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
